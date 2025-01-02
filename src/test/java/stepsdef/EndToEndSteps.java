@@ -31,7 +31,7 @@ public class EndToEndSteps {
         loginPage.insertUsername(username);
         loginPage.insertPassword(password);
         loginPage.clickOnLoginButton();
-        Thread.sleep(2000);
+        Thread.sleep(3000);
     }
     @Then("verify that user logged in successfully")
     public void verify_that_user_logged_in_successfully () throws InterruptedException {
