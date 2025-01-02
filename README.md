@@ -4,8 +4,8 @@ This project automates test cases for the [Demoblaze website](https://www.demobl
 
 Scenarios Covered
 1. User Signup
-Ensures users can sign up successfully.
-Displays a success message: "Sign up successful."
+- Ensures users can sign up successfully.
+  - Displays a success message: "Sign up successful."
 2. Purchase Two Products
 - Step 1: Login
   - Validates user login with accurate credentials.
