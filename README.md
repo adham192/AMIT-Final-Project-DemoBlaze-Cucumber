@@ -23,5 +23,4 @@ Scenarios Covered
 ## Tools and Technologies
 - Programming Language: Java
 - Automation Framework: Selenium WebDriver
-- Test Framework: TestNG
 - Behavior-Driven Development: Cucumber (BDD)
